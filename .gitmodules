@@ -1,0 +1,3 @@
+[submodule "content/cs"]
+	path = content/cs
+	url = https://github.com/ash0x0/obsidian-cs-notes
